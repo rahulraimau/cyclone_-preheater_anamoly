@@ -1,0 +1,20 @@
+Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.ipynb_checkpoints/
+LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+Generated outputs
+output/*
+!output/.gitkeep
+Dataset
+*.csv
